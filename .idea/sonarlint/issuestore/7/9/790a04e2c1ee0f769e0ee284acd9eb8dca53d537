@@ -1,0 +1,9 @@
+
+squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "elementList".(×‡±ê8š«Êœ ,
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ü¦Õ×ıÿÿÿÿ8ÉÊ·œ ,
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Â¹Ÿı8ÉÊ·œ ,
+squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "elementList".(¥ÂŸ8…ÈÆœ ,
+\squid:S1854";Remove this useless assignment to local variable "element".(«Ô¿•úÿÿÿÿ8ˆşÂœ ,
+zsquid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "element".(§½Ê8ëºÉœ ,
+{squid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "element".(êÃ8…ÈÆœ ,
+Msquid:S1481",Remove this unused "element" local variable.(«Ô¿•úÿÿÿÿ8ˆşÂœ ,
